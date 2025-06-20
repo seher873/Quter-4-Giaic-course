@@ -1,5 +1,4 @@
-🤖 Simple Agent Setup Guide
-A lightweight AI agent built using Python, UV, OpenAI Agents SDK, and Gemini API.
+
 
 🚀 Step-by-Step Installation
 🛠 1. Install UV
