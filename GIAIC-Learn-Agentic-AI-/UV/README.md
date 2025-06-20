@@ -33,17 +33,3 @@ Windows:
 Linux/macOS:
 
 source .venv/bin/activate
-🔐 5. Add Your Gemini API Key
-Create a .env file in the root directory and add:
-
-GEMINI_API_KEY=your_gemini_api_key
-📌 Get your Gemini API key from: https://aistudio.google.com/app/apikey
-
-▶️ 6. Run the Agent
-Make sure your script is named main.py, then run:
-
-uv run main.py
-💬 Type a message like hi or bye in the terminal and interact with your agent.
-
-🎉 You’re All Set!
-Your Simple Agent is now up and running. Customize it, connect more APIs, and explore what’s possible 🚀
